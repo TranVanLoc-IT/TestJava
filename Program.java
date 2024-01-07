@@ -91,9 +91,6 @@ public class Program{
         p.age++;
     }
     public static void main(String[] args){
-       for(Names s: Names.values())
-       {
-        out.println(s.key.toString() + s.name);
-       }
+       out.println("change git ");
     }
 }

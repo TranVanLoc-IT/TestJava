@@ -91,22 +91,6 @@ public class Program{
         p.age++;
     }
     public static void main(String[] args){
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-       out.println("change git ");       out.println("change git ");
-
-=======
-       out.println("change git ");
-       //sstash
->>>>>>> Stashed changes
-=======
-       out.println("change git 3");       
-       out.println("change git 4");
->>>>>>> Stashed changes
-=======
-       out.println("change git 3");       
-       out.println("change git 4");
->>>>>>> Stashed changes
-    }
+        System.out.println("stash from newbranch");
+            }
 }

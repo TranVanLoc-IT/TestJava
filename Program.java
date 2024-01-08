@@ -91,7 +91,12 @@ public class Program{
         p.age++;
     }
     public static void main(String[] args){
+<<<<<<< Updated upstream
        out.println("change git ");       out.println("change git ");
 
+=======
+       out.println("change git ");
+       //sstash
+>>>>>>> Stashed changes
     }
 }

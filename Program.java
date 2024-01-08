@@ -92,17 +92,9 @@ public class Program{
     }
     public static void main(String[] args){
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
-       out.println("change git ");
-       out.println("change git 5");
 
 =======
-       out.println("change git 3");       
-       out.println("change git 4");
->>>>>>> Stashed changes
-=======
-       out.println("change git 3");       
-       out.println("change git 4");
+        out.println(String.format("stash"));
 >>>>>>> Stashed changes
     }
 }
